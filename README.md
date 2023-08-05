@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tatis-718
 - 👀 I’m interested in Developing web and mobile applications, collaborating with new teams, and learning other developers' code implementation ideas.
-- 🌱 I’m currently learning TypeScript and Angular.
 - 💞️ I’m looking to collaborate on projects involving full stack that integrate ASP.NET Core.
 - 📫 How to reach me console.log(email = mtatisrosario@gmail.com, cell = (917) 426-5967). 
 
