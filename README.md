@@ -47,7 +47,7 @@ Email: mtatisrosario@gmail.com
 
 Cell: (917) 426-5967 
 
-<img align="left" alt="Windows" width="18px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />: [Mendenzon Tatis](https://www.linkedin.com/in/mendenzontatis/)
+<img align="left" alt="Windows" width="20px" style="padding-right:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[Mendenzon Tatis](https://www.linkedin.com/in/mendenzontatis/)
 
 <!---
 Tatis-718/Tatis-718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
